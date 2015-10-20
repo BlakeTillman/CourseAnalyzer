@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class PageBuilder {
 
-	private static String base = "http://btilm305.github.io";
+	private static String base = "http://blaketillman.github.io/CourseAnalyzer";
 
 	private static String part1 = "<!DOCTYPE html><html><head lang=\"en\"><meta charset=\"UTF-8\"><title>";
 	private static String part2 = "</title></head><body><pre>";
