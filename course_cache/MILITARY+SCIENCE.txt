@@ -1,0 +1,61 @@
+  2    23  MILS 1010 LAB     5  RIFLE & PISTL MARKSH   1.0  1030-1120      TH  0152 MIL-AERO STUDIE PERMIS OF INST   WALKER M
+                                                                                                                     TABORA M
+                     LEC                                    1030-1120    T     0152 MIL-AERO STUDIE                  WALKER M
+                                                                                                                     TABORA M
+ 10    15  MILS 1010 LAB     6  RIFLE & PISTL MARKSH   1.0  1130-1220      TH  0152 MIL-AERO STUDIE PERMIS OF INST   WALKER M
+                                                                                                                     TABORA M
+                     LEC                                    1130-1220    T     0152 MIL-AERO STUDIE                  WALKER M
+                                                                                                                     TABORA M
+  9    31  MILS 1011         2  LDSHP & PERSONAL DEV   1.0   200-0250      TH  0152 MIL-AERO STUDIE                  SANTOS W
+                     LAB                                     300-0420      TH  0152 MIL-AERO STUDIE                  SANTOS W
+                                                                                                                     HORMANN C
+ 34    66  MILS 1015 LAB     1  ARMY PHYS FIT TRAIN    1.0  TBA                                                      ANSPACH A
+                                                                                                                     HORMANN C
+ 13    12  MILS 2161         1  INNOV TEAM LEADERSHP   2.0  TBA                                                      ANSPACH A
+                                                                                                                     DANIEL G
+                     LAB                                     300-0420      TH                                        ANSPACH A
+                                                                                                                     DANIEL G
+ 11    19  MILS 3011         2  ADAPTIVE TACTI LDSHP   4.0   730-0850    T TH  0150 MIL-AERO STUDIE                  ANSPACH A
+                                                                                                                     DANIEL G
+                     LAB                                     300-0550      TH  0250 MIL-AERO STUDIE                  ANSPACH A
+                                                                                                                     DANIEL G
+ 25     5  MILS 4011         1  DEV ADAPTIVE LEADERS   4.0  TBA                                                      HOUSE L
+                     LAB                                    TBA                                                      HORMANN C
+                                                                                                                     HOUSE L
+ 18     2  MILS 4995         1  SPEC TOP IN MILITARY   3.0  TBA                                                      HORMANN C
+                                                                                                                     HOUSE L
+
+
+
+
+Fall  2015   MILITARY SCIENCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

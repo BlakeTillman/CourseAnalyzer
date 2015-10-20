@@ -1,0 +1,248 @@
+  3    62  EDCI 1001         1  INTRO TO COLL STUDY    3.0   830-0920   M W F  0221 TUREAUD HALL                     KELLY H
+(F)    65  EDCI 1001         5  INTRO TO COLL STUDY    3.0   930-1020   M W F  0120 TUREAUD HALL                     KELLY H
+(F)    65  EDCI 1001         3  INTRO TO COLL STUDY    3.0  1030-1150   M W    0120 TUREAUD HALL                     KELLY H
+  2    48  EDCI 1001         7  INTRO TO COLL STUDY    3.0  1030-1150   M W    0228 TUREAUD HALL                     FRY M
+  4    51  EDCI 1001         6  INTRO TO COLL STUDY    3.0   900-1020    T TH  0211 TUREAUD HALL                     FRY M
+  4    56  EDCI 1001         4  INTRO TO COLL STUDY    3.0  1030-1150    T TH  0134 J C MILLER                       CASEY J
+  3    62  EDCI 1001         2  INTRO TO COLL STUDY    3.0   130-0250    T TH  E134 HOWE RUSSELL E                   NIXON B
+  1    54  EDCI 1001         8  INTRO TO COLL STUDY    3.0   300-0420    T TH  0212 COATES                           RICKS T
+ 71    49  EDCI 2001         1  EDUC, SCHOOL, & SOC    3.0   130-0250    T TH  0102 ALLEN                            HENDRY P
+ 20    10  EDCI 2030         1  TEACH/SCHOOL/SOCIETY   3.0   900-1050   M      0216 PEABODY                          CASEY E
+                     LAB                                     900-1050     W    0216 PEABODY                          CASEY E
+  2    28  EDCI 2030         3  TEACH/SCHOOL/SOCIETY   3.0  1130-0120   M      0216 PEABODY                          WHEELER S
+                     LAB                                    1130-0120     W    0102 PEABODY                          WHEELER S
+  1    29  EDCI 2030         2  TEACH/SCHOOL/SOCIETY   3.0   230-0420    T     0129 ALLEN                            FRY M
+                     LAB                                     230-0420      TH  0129 ALLEN                            FRY M
+  2    38  EDCI 2081         1  PK-3 PROG OVERVIEW     2.0   930-1020     W    0234 COATES                           EISWORTH H
+                     LAB                                    TBA                                                      EISWORTH H
+  9    11  EDCI 2271         1  ART ED EL SCHL         3.0   430-0620N    W    0214 PEABODY                          MACKEY E
+                     LAB                                     630-0820N    W    0214 PEABODY                          MACKEY E
+ 13    17  EDCI 2400         1  EDUC & DIV POPLTN      3.0   230-0420   M      0214 PEABODY         SVC LEARNING     WHEELER S
+                     LAB                                     230-0420     W    0214 PEABODY                          WHEELER S
+  4    26  EDCI 2400         2  EDUC & DIV POPLTN      3.0   930-1120    T     0214 PEABODY         SVC LEARNING     WHEELER S
+                     LAB                                     930-1120      TH  0214 PEABODY                          WHEELER S
+ 17    13  EDCI 2400         3  EDUC & DIV POPLTN      3.0   230-0420    T     0214 PEABODY         SVC LEARNING     WHEELER S
+                     LAB                                     230-0420      TH  0214 PEABODY                          WHEELER S
+  4    21  EDCI 2500         1  KNOW/LEARN MATH/SCI    3.0   130-0250    T TH  0104 PEABODY                          KIRSHNER D
+(F)    30  EDCI 2700         2  CHAR LRNRS EXCEPT      3.0  1000-1120    T TH  0243 LOCKETT                          DENNY M
+                     LAB                                    TBA                                                      DENNY M
+(F)    30  EDCI 2700         3  CHAR LRNRS EXCEPT      3.0   100-0220    T TH  0214 PEABODY                          MOONEY P
+                     LAB                                    TBA                                                      MOONEY P
+  1    29  EDCI 2700         4  CHAR LRNRS EXCEPT      3.0   430-0720N    W    0123 ALLEN                            DENNY M
+                     LAB                                    TBA                                                      DENNY M
+      ***   EDCI 3000  ***        ADMISSION TO ALL 3000 AND 4000 LEVEL COURSES IS LIMITED TO
+      ***   EDCI 3000  ***        THOSE ELIGIBLE FOR ADMISSION TO A TEACHER ED. PROGRAM.
+      ***   EDCI 3000  ***        THIS INCLUDES A 2.5 LSU/CUM GPA, PRAXIS 1 PASSAGE OR
+      ***   EDCI 3000  ***        ACT/SAT 22/1130 COMPOSITE REQUIRED. SEE CATALOG.
+(F)    25  EDCI 3000         1  CHILDREN'S LITERATUR   3.0   900-1020    T TH  0216 PEABODY                          DONNELLY K
+ 11    14  EDCI 3000         2  CHILDREN'S LITERATUR   3.0  1030-1150    T TH  0216 PEABODY                          DONNELLY K
+  6    19  EDCI 3000         3  CHILDREN'S LITERATUR   3.0   900-1150    T     0218 PEABODY                          BARRERA E
+ 17    43  EDCI 3001         1  STUDENT DEV & DIV      3.0   400-0550    T     0228 COATES                           PITRE L
+                     LAB                                    TBA                                                      PITRE L
+      ***   EDCI 3055  ***       EARLY CHILDHOOD/PK-3 STUDENTS MUST REGISTER FOR EDCI.
+      ***   EDCI 3055  ***       CROSS-LISTED WITH   CFS  3055
+  6    24  EDCI 3055         1  DEVELOP YOUNG CHILD    4.0  1200-0250     W    0216 PEABODY         CI-WRITTEN&SPOK  EISWORTH H
+                                                                                                    CI-WRITTEN&SPOK
+                                                                                                    SVC LEARNING
+                     LAB                                    TBA                                                      EISWORTH H
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+      ***   EDCI 3124  ***       STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124, 3125
+      ***   EDCI 3124  ***       AND MATH 2203
+(F)    21  EDCI 3124         1  CUR DISC: MATH THRY    6.0   930-1220       F  0120 PEABODY                          RICKS T
+                     LAB                                    TBA                                                      LAMONTE D
+     **                    STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124 AND
+     **                    EDCI 3125 BUT MAY CHOOSE ANY SECTION OF MATH 2203
+(F)    22  EDCI 3124         2  CUR DISC: MATH THRY    6.0   930-1220       F  0104 PEABODY                          KIM M
+                     LAB                                     830-1120    T TH  0104 PEABODY                          KIM M
+     **                    STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124 AND
+     **                    EDCI 3125 BUT MAY CHOOSE ANY SECTION OF MATH 2203
+(F)    20  EDCI 3124         3  CUR DISC: MATH THRY    6.0   930-1220       F  0102 PEABODY                          BLANCHARD P
+                     LAB                                     900-1150   M W    0104 PEABODY                          BLANCHARD P
+     **                    STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124 AND
+     **                    EDCI 3125 BUT MAY CHOOSE ANY SECTION OF MATH 2203
+      ***   EDCI 3125  ***       DUE TO OFF CAMPUS FIELD EXPERIENCE REQUIREMENTS IT IS NOT
+      ***   EDCI 3125  ***       RECOMMENDED THAT STUDENTS SCHEDULE COURSES DIRECTLY PRIOR T
+      ***   EDCI 3125  ***       OR AFTER PROFESSIONAL PRACTICE BLOCK II COURSES (EDCI 3124,
+      ***   EDCI 3125  ***       3125, AND MATH 2203) TO ENSURE ADEQUATE TRAVEL TIME BETWEEN
+      ***   EDCI 3125  ***       CAMPUS AND FIELD EXPERIENCE SITES.
+      ***   EDCI 3125  ***       STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124, 3125
+      ***   EDCI 3125  ***       AND MATH 2203
+(F)    21  EDCI 3125         1  CURRIC DISC: SCIENCE   3.0   930-1120   M      0102 PEABODY                          LAUNEY B
+                     LAB                                     930-1120     W    0102 PEABODY                          LAUNEY B
+     **                    STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124 AND
+     **                    EDCI 3125 BUT MAY CHOOSE ANY SECTION OF MATH 2203
+(F)    20  EDCI 3125         3  CURRIC DISC: SCIENCE   3.0   930-1120    T     0102 PEABODY                          LAUNEY B
+                     LAB                                     930-1120      TH  0102 PEABODY                          LAUNEY B
+     **                    STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124 AND
+     **                    EDCI 3125 BUT MAY CHOOSE ANY SECTION OF MATH 2203
+(F)    22  EDCI 3125         2  CURRIC DISC: SCIENCE   3.0  1230-0220    T     0102 PEABODY                          DAVIS B
+                     LAB                                    1230-0220      TH  0102 PEABODY                          DAVIS B
+     **                    STUDENTS MUST ENROLL IN THE SAME SECTION OF EDCI 3124 AND
+     **                    EDCI 3125 BUT MAY CHOOSE ANY SECTION OF MATH 2203
+      ***   EDCI 3127  ***       STUDENTS MUST ENROLL IN THE SAME SECTIONS OF EDCI 3127,
+      ***   EDCI 3127  ***       EDCI 3137, EDCI 3200.
+      ***   EDCI 3127  ***       DUE TO CAMPUS FIELD EXPERIENCE REQUIREMENTS IT IS NOT
+      ***   EDCI 3127  ***       RECOMMENDED THAT STUDENTS SCHEDULE COURSES DIRECTLY
+      ***   EDCI 3127  ***       PRIOR TO OR AFTER PROFESSIONAL PRACTICE BLOCK I COURSES
+      ***   EDCI 3127  ***       (EDCI 3127, 3137, 3200) TO ENSURE ADEQUATE TRAVEL TIME
+      ***   EDCI 3127  ***       BETWEEN CAMPUS AND FIELD EXPERIENCE SITES.
+  7    13  EDCI 3127         2  CURRIC DISC: SOC STU   3.0   100-0250   M      0218 PEABODY                          CASEY E
+                     LAB                                     100-0250     W    0218 PEABODY                          CASEY E
+(F)    26  EDCI 3127         1  CURRIC DISC: SOC STU   3.0   100-0250    T     0218 PEABODY                          TONEY D
+                     LAB                                     100-0250      TH  0218 PEABODY                          TONEY D
+(F)    26  EDCI 3136         1  READNG CONTENT AREAS   3.0   430-0720N  M      0137 ALLEN                            PITRE L
+(F)    26  EDCI 3137         1  CLSRM READING INSTUC   3.0  1000-1150    T TH  0108 NICHOLSON                        SKINNER K
+                     LAB                                    TBA                                                      SKINNER K
+  7    13  EDCI 3137         2  CLSRM READING INSTUC   3.0  1100-1220    T TH  0120 PEABODY         SVC LEARNING     SULENTIC DOWE
+                     LAB                                    TBA                                                      SULENTIC DOWE
+      ***   EDCI 3200  ***       STUDENTS MUST ENROLL IN THE SAME SECTIONS OF EDCI 3127,
+      ***   EDCI 3200  ***       EDCI 3137, AND EDCI 3200.
+      ***   EDCI 3200  ***       DUE TO FIELD REQUIREMENTS, IT IS NOT RECOMMENDED THAT
+      ***   EDCI 3200  ***       STUDENTS SCHEDULE COURSES DIRECTLY PRIOR TO OR AFTER
+      ***   EDCI 3200  ***       PROFESSIONAL PRACTICE BLOCK I (PPBI) COURSES TO ENSURE
+      ***   EDCI 3200  ***       ADEQUATE TRAVEL TIME BETWEEN CAMPUS AND FIELD SITES.
+(F)    26  EDCI 3200         1  READ/WRIT/ORL COM EL   6.0   830-1120   M W F  0214 PEABODY                          BENOIT M
+                     LAB                                    TBA                                                      BENOIT M
+  6    14  EDCI 3200         2  READ/WRIT/ORL COM EL   6.0   830-1120   M W F  0218 PEABODY                          HUDSON M
+                     LAB                                    TBA                                                      HUDSON M
+  6    24  EDCI 3381         1  ECE CURRICULUM         3.0   130-0420   M      0216 PEABODY         CI-WRITTEN&SPOK  SHELDON K
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+  6    24  EDCI 3382         1  ECE PEDAGOGY           3.0   130-0320    T     0216 PEABODY         CI-WRITTEN&SPOK  BARNES A
+                     LAB                                    TBA                                                      BARNES A
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+  6    24  EDCI 3383         1  ASSESS/PLAN REFL INS   3.0   100-0250      TH  0216 PEABODY         CI-WRITTEN&SPOK  DICARLO C
+                                                                                                    CI-WRITTEN&SPOK
+                                                                                                    SVC LEARNING
+                     LAB                                    TBA                                                      DICARLO C
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+ 22     8  EDCI 3550         1  CLASSRM INTERACTIONS   3.0   330-0520      TH  0205 PRESCOTT        CI-WRITTEN&TECH  DAVIS B
+                                                                                                    CI-WRITTEN&TECH
+                     LAB                                     330-0420    T     0205 PRESCOTT                         DAVIS B
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+ 72    27  EDCI 3625 CLI     1  STU TEACH ELEM GDS     9.0  TBA                                     PERMIS OF INST   CALLENDER K
+(F)    25  EDCI 3701         1  ASSESSMT SP ED INST    3.0   430-0720N   T     0128 ALLEN                            MOONEY P
+                     LAB                                    TBA                                                      MOONEY P
+  1    24  EDCI 3702         1  INST PRCT STD DIS I    3.0   900-1150   M      0120 PEABODY                          GANSLE K
+                     LAB                                    TBA                                                      GANSLE K
+  5    15  EDCI 3703         1  READING & LITERACY     3.0   430-0620N     TH  0121 ALLEN                            WILSON M
+                     LAB                                    TBA                                                      WILSON M
+  6    19  EDCI 3704         1  IMPROV LANG SKILLS     3.0   900-1150     W    0120 PEABODY                          GANSLE K
+ 10    20  EDCI 4003         1  ENGLISH                3.0   430-0620N    W    0131 ALLEN                            PITRE L
+                     LAB                                    TBA                                                      PITRE L
+ 10    10  EDCI 4003         2  SOCIAL STUDIES         3.0   430-0620N    W    0132 ALLEN                            CASEY J
+                                                                                                    CI-WRITTEN&SPOK
+                     LAB                                    TBA                                                      CASEY J
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+  7     3  EDCI 4003         3  FOREIGN LANGUAGE       3.0   430-0620N     TH  0219 PEABODY                          CALDERON P
+                     LAB                                    TBA                                                      CALDERON P
+ 29     1  EDCI 4004         1  SOCIAL STUDIES         3.0  TBA                                                      CASEY J
+                     LAB                                    TBA                                                      CASEY J
+ 24     1  EDCI 4005         1  STU TEACH HUMANITIES   9.0  TBA                                                      CALLENDER K
+                     LAB                                    TBA                                                      CALLENDER K
+ 44     6  EDCI 4006         1  STU TEACH MATH/SCI     9.0  TBA                                     CI-WRITTEN&SPOK  CALLENDER K
+                                                                                                    CI-WRITTEN&SPOK
+                     LAB                                    TBA                                                      CALLENDER K
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+  8    22  EDCI 4382         1  CRIT ISS CHILD EDUC    3.0   900-1150       F  0216 PEABODY         CI-SPOKEN&TECH   BAUMGARTNER J
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+  4    21  EDCI 4460         1  PLAN/EVAL SCH INSTRU   3.0  1230-0220   M      0214 PEABODY                          LATHON E
+                     LAB                                    TBA                                                      LATHON E
+ 13     7  EDCI 4460         3  PLAN/EVAL SCH INSTRU   3.0   130-0250    T     0123 ALLEN                            LATHON E
+                     LAB                                     130-0250      TH  0123 ALLEN                            LATHON E
+  9    11  EDCI 4460         2  PLAN/EVAL SCH INSTRU   3.0   430-0620N   T     0104 PEABODY                          TONEY D
+                     LAB                                    TBA                                                      TONEY D
+ 15     5  EDCI 4465 SEM     1  ENGLISH                3.0   430-0720N    W    0219 PEABODY                          BACH J
+ 19     1  EDCI 4465 SEM     3  MATH                   3.0   430-0720N    W    0102 PEABODY                          WEBB A
+ 15     5  EDCI 4465 SEM     4  SCIENCE                3.0   430-0720N    W    0102 PEABODY                          WEBB A
+ 18     2  EDCI 4465 SEM     2  SOCIAL STUDIES         3.0   630-0920N    W    0132 ALLEN                            BACH J
+      ***   EDCI 4481  ***       CLASS WILL MEET 1:00PM - 4:00PM FRIDAYS. LOCATION TBA.
+  2    22  EDCI 4481         1  STU TCH: GRADES 1-3   12.0  TBA                                                      DONNELLY K
+                     LAB                                    TBA                                                      CALLENDER K
+ 19    11  EDCI 4500         1  INSTR MODELS MATH/SC   3.0   330-0620     W                         CI-WRITTEN&SPOK  NIXON B
+     **                    SECTION INVOLVES COMMUNICATION-INTENSIVE LEARNING
+ 14     6  EDCI 4630 CLI     1  STUDENT TEACHING K12   9.0  TBA                                                      CALLENDER K
+  7    18  EDCI 4703         1  CLSSRM MGT IN SPED     3.0   100-0350      TH  0120 PEABODY                          DENNY R
+                     LAB                                    TBA                                                      DENNY R
+ 12     8  EDCI 6701         1  FOUND ABA IN EDUC      3.0   430-0720N    W    0128 ALLEN                            DENNY R
+ 12     8  EDCI 7021         1  LGL/ETH ISS SPEC ED    3.0   430-0720N     TH  0128 ALLEN                            MOONEY P
+      ***   EDCI 7056  ***       CROSS-LISTED WITH   CFS  7056
+ 16     9  EDCI 7056         1  THEORIES CHLD DVLPMT   3.0  TBA                                     100% WEB BASED   BAUMGARTNER J
+     **                    WORLD WIDE WEB-BASED DELIVERY
+  7    13  EDCI 7135         1  TECH TCH RDG MD/SC S   3.0   430-0720N   T     0134 ALLEN           1-49% WEB BASED  HUDSON M
+     **                    WORLD WIDE WEB-BASED DELIVERY
+  7     5  EDCI 7312         1  DIAG-PRES TCHNG MATH   3.0   430-0720N     TH  0104 PEABODY                          KIRSHNER D
+ 18    13  EDCI 7460         1  FALL PRAC SEC/K-12 S   6.0  TBA                                                      CALLENDER K
+                     LAB                                    TBA                                                      CALLENDER K
+ 13    17  EDCI 7480 LAB     1  TEACHING PRACTIC I     6.0  TBA                                                      BARRERA E
+ 16    17  EDCI 7484 SEM     1  MASTER'S PROJECT I     3.0  1030-0120       F  0129 ALLEN                            BARRERA E
+  9     1  EDCI 7610 RES     1  ADV SM & PRCT C & I    3-6  TBA                                     PERMIS OF DEPT   BLANCHARD P
+(F)    25  EDCI 7682         1  ASSESS TECH/PRACT RD   3.0   430-0620N  M      0216 PEABODY                          SKINNER K
+                     LAB                                    TBA                                                      SKINNER K
+  4     1  EDCI 7684 CLI     1  ADV INTERNSHIP RDNG    6.0  TBA                                     PERMIS OF DEPT   BARRERA E
+ 17    13  EDCI 7760         1  NATR & NEED OF G & T   3.0   430-0720N    W    0216 PEABODY         50-74% WEB BASE  PALKA J
+     **                    WORLD WIDE WEB-BASED DELIVERY
+ 20    10  EDCI 7764         1  SOC EMOT DEVT GIFTED   3.0   430-0720N  M      0218 PEABODY         50-74% WEB BASE  STAPLETON B
+     **                    WORLD WIDE WEB-BASED DELIVERY
+ 19     1  EDCI 7821 RES     1  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   DICARLO C
+  4     1  EDCI 7821 RES     2  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   HENDRY P
+  9     1  EDCI 7821 RES     3  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BACH J
+  4     1  EDCI 7821 RES     4  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   MOONEY P
+  4     1  EDCI 7821 RES     5  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   SKINNER K
+  3     2  EDCI 7821 RES     6  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   SULENTIC DOWE
+  9     1  EDCI 7822 RES     1  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BARRERA E
+  9    11  EDCI 7824         1  ELEM SCHL CURRICULUM   3.0   430-0720N     TH  0216 PEABODY                          SULENTIC DOWE
+  7    13  EDCI 7901         1  CURRICULUM THEORY      3.0   430-0720N     TH  0134 ALLEN                            EATON P
+  6    14  EDCI 7921 RES     2  ANLY RES CUR/INSTR     3.0   430-0720N   T     0216 PEABODY         PERMIS OF DEPT   HENDRY P
+  3    12  EDCI 7921 RES     1  INQUIRY IN SCI & MAT   3.0  TBA                                     100% WEB BASED   WEBB A
+     **                    WORLD WIDE WEB-BASED DELIVERY
+ 24     1  EDCI 7930 RES     1  ADV RESEARCH IN ECE    1-6  TBA                                     100% WEB BASED   DICARLO C
+     **                    WORLD WIDE WEB-BASED DELIVERY
+  2     8  EDCI 7930 RES     2  WRIT/ANLY CURR THEOR   1-6  TBA                                                      FASCHING-VARN
+ 98     1  EDCI 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BACH J
+ 98     1  EDCI 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DICARLO C
+(F)     1  EDCI 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      HENDRY P
+  7     3  EDCI 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BACH J
+  3     2  EDCI 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      BLANCHARD P
+  9     1  EDCI 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      CASBERGUE R
+  3     2  EDCI 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      CHEEK E
+  4     1  EDCI 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      DICARLO C
+(F)     6  EDCI 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      HENDRY P
+  7     3  EDCI 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      KIRSHNER D
+  9     1  EDCI 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      BAUMGARTNER J
+  6     4  EDCI 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      SULENTIC DOWE
+  4     1  EDCI 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WEBB A
+
+
+
+
+Fall  2015   CURRICULUM & INSTRUCTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
